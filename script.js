@@ -1,4 +1,4 @@
-const backendUrl = "http://localhost:8080";
+const backendUrl = "https://fhallengreenoauth2.azurewebsites.net";
 
 async function checkAuthenticationStatus() {
     try {
